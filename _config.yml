@@ -30,7 +30,7 @@ twitter_username: mansortner
 github_username:  mansortner
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
