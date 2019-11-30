@@ -5,22 +5,27 @@
 
 $ff-title: 'Reenie Beanie';
 $ff-sans: 'Roboto';
-header{
+body{
+    grid-area: auto;
     align-items: left;
     h1{
         font-family: $ff-title;
-        font-size: 4em; 
+        font-size: 6em; 
         text-align: center;
+
         margin: 0;
         margin-top: 2em;
-    }
-    ::after{
+
 
     }
+
+ 
+ 
     h2{
         font-family: $ff-sans;
-        font-size: 2em;
+        font-size: 1.5em;
         text-align: center;
+        text-transform: uppercase;
         font-weight: 100;
         font-style: normal;
         margin: 0;
